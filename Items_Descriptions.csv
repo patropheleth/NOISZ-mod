@@ -1,10 +1,10 @@
 key,level,English,Japanese,Chinese
 ,,,,
-it_binary_star,0,"Every time you gain invulnerability, grant allies Invulnerability for 1 second, gain Super for the duration.",Raises Secondary damage by [VAR0_PERCENT].,Raises Secondary damage by [VAR0_PERCENT].
-it_dragon_glasses,0,Every 20 seconds your next Defensive grants Dominion. ,Raises Primary damage by [VAR0_PERCENT].,Raises Primary damage by [VAR0_PERCENT].
-it_firebird_lighter,0,"When you use your Defensive, apply Blazing to all enemies.","Every [CD], become invulnerable for [VAR0_SECONDS].","Every [CD], become invulnerable for [VAR0_SECONDS]."
-it_queer_hat,0,"Every 40 seconds gain Duplex Barrier. ","Heals [VAR0] HP after each fight, up to [VAR1] times.","Heals [VAR0] HP after each fight, up to [VAR1] times."
-it_joker,0,Max life +1. +10% to all damage dealt. -10% to GCD.,Your Secondary applies [SUPERBURN-2].,Your Secondary applies [SUPERBURN-2].
-it_antiphon_hood,0,Every 4 Primary hits Supercharge your Secondary. Every 4 Secondary hits Supercharge your Primary.,Your Primary applies [SUPERBURN-3].,Your Primary applies [SUPERBURN-3].
-it_void_eyepatch,0,Every 32 Primary hits gain Invulnerability for 4 seconds and Supercharge your Primary 4 times.,Your Special applies [SUPERCURSE-0].,Your Special applies [SUPERCURSE-0].
-it_cat_plushie,0,All damage dealt +44%. Breaks and kills you upon getting hit.,Your Special applies [SUPERCURSE-3].,Your Special applies [SUPERCURSE-3].
+it_binary_star,0,"Every time you gain invulnerability, grant allies [SUPER] for the duration.",Raises Secondary damage by [VAR0_PERCENT].,Raises Secondary damage by [VAR0_PERCENT].
+it_dragon_glasses,0,"Every 20 seconds your next Defensive grants Dominion and charges a slice for every Primary hit." ,Raises Primary damage by [VAR0_PERCENT].,Raises Primary damage by [VAR0_PERCENT].
+it_firebird_lighter,0,"Special applies [INFERNO]. Your debuffs deal 30% more damage. Every 222 debuff applications increase health by 1","Every [CD], become invulnerable for [VAR0_SECONDS].","Every [CD], become invulnerable for [VAR0_SECONDS]."
+it_queer_hat,0,"Start every fight with [PARADOXSHIELD]. Every shield break, your Primary deals [VAR0] more damage.","Heals [VAR0] HP after each fight, up to [VAR1] times.","Heals [VAR0] HP after each fight, up to [VAR1] times."
+it_joker,0,"Max life +1. +10% to all damage dealt. Slightly increases movement speed. Every fight gain 3 more gold.",Your Secondary applies [SUPERBURN-2].,Your Secondary applies [SUPERBURN-2].
+it_antiphon_hood,0,"Every 4 Primary hits [SUPERCHARGE] your Secondary. Every 4 Secondary hits [SUPERCHARGE] your Primary. Slightly increases movement speed.",Your Primary applies [SUPERBURN-3].,Your Primary applies [SUPERBURN-3].
+it_void_eyepatch,0,Every 32 Primary charges your Special to grant [SUPER] for 4 seconds and [CHARGE] your Primary 4 times.,Your Special applies [SUPERCURSE-0].,Your Special applies [SUPERCURSE-0].
+it_what_the_bun,0,"All damage dealt +[VAR0]%. Using Defensive hits a random ally.",Your Special applies [SUPERCURSE-3].,Your Special applies [SUPERCURSE-3].
